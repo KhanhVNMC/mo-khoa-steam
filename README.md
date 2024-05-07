@@ -10,5 +10,5 @@ Thằng đầu buồi VTC ngu lồn đéo làm ăn được gì xong cấm con m
 4) Nhấn ENTER
 5) Đợi một lúc là vào được lại Steam rồi
 
-Không ăn được còn đạp đổ, chỉ có thể là VTC.
+## Không ăn được còn đạp đổ, chỉ có thể là VTC.
 
