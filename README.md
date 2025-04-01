@@ -1,7 +1,7 @@
 ## Mở khóa Steam
-Mở khóa lại Steam cho anh em VN bị thằng đầu buồi súc vật VTC cấm.
+Mở khóa lại Steam cho anh em Việt Nam bị VTC chặn truy cập
 
-Thằng đầu buồi VTC ngu lồn đéo làm ăn được gì xong cấm con mẹ Steam xong vu khống lung tung. Cái script trong repo này có thể dùng để **mở khóa lại Steam** trên mọi máy tính Windows (***TỪ WINDOWS 10 TRỞ LÊN***)
+VTC xử lý kém, không giải quyết được vấn đề rồi lại chặn Steam và đưa ra những cáo buộc vô căn cứ. Script trong repo này có thể giúp **mở khóa lại Steam** trên mọi máy tính Windows (***TỪ WINDOWS 10 TRỞ LÊN***).
 
 **CÁCH DÙNG**
 1) Tải cả 3 file trong repository này về (hoặc tải cái ZIP ở trong phần **Release**)
